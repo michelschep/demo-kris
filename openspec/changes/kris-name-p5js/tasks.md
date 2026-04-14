@@ -1,7 +1,7 @@
 ## 1. Project Setup
 
 - [x] 1.1 Create `index.html` with p5.js CDN link and canvas container
-- [ ] 1.2 Create `style.css` for full-screen, margin-free canvas layout
+- [x] 1.2 Create `style.css` for full-screen, margin-free canvas layout
 
 ## 2. p5.js Sketch
 
