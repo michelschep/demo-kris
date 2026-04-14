@@ -15,4 +15,4 @@
 - [x] 3.1 Serve with `npx serve .` and verify "Kris" appears centered in browser
 - [x] 3.2 Confirm left half is red and right half is blue
 - [x] 3.3 Resize window and verify canvas and text remain centered
-- [ ] 3.4 Open browser console and confirm zero errors
+- [x] 3.4 Open browser console and confirm zero errors
