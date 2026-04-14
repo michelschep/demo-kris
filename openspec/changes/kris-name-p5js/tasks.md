@@ -7,7 +7,7 @@
 
 - [x] 2.1 Create `sketch.js` with `setup()` — full-screen canvas, white background
 - [x] 2.2 Implement `draw()` — render "Kris" centered using large bold font
-- [ ] 2.3 Apply red/blue color split using `drawingContext` clipping (left half red, right half blue)
+- [x] 2.3 Apply red/blue color split using `drawingContext` clipping (left half red, right half blue)
 - [ ] 2.4 Implement `windowResized()` to resize canvas and keep text centered
 
 ## 3. Validation
